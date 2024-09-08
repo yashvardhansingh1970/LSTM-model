@@ -18,3 +18,4 @@ highly adaptive architecture, continues to shape the future of artificial intell
 enabling machines to unravel the complexities of sequential data and make informed 
 decisions across a multitude of domains.
 Data Source: https://uk.finance.yahoo.com/most-active/?guccounter=1
+Link to the project: https://lstm-model-5pynfm98a8fwxuvwlxiovi.streamlit.app/
